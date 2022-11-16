@@ -1,4 +1,4 @@
-const url = 'http://localhost:4000/clientes';
+const url = 'https://my-json-server.typicode.com/edmblue/crm-json-server-RESTApi/clientes';
 
 export async function agregarCliente(cliente) {
   try {
