@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Marianny Act",
+      "email": "pruebas@gmail.com",
+      "telefono": "13546151",
+      "empresa": "Empresa Uno",
+      "id": 2
+    },
+    {
+      "nombre": "Marianny Actualizada",
+      "email": "pruebas@trcrecruitme.com",
+      "telefono": "13546151",
+      "empresa": "Empresa Dos",
+      "id": 4
+    },
+    {
+      "nombre": "Raquel",
+      "email": "pruebas@gmail.com",
+      "telefono": "13546151",
+      "empresa": "Empresa Tres",
+      "id": 5
+    }
+  ]
+}
